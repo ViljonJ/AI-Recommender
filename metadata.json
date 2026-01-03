@@ -1,0 +1,5 @@
+{
+  "name": "Recommendation System",
+  "description": "A simple recommendation system demonstrating content-based and collaborative filtering techniques with a minimalistic UI.",
+  "requestFramePermissions": []
+}
